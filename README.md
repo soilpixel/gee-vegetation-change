@@ -1,5 +1,5 @@
 # Google Earth Engine (GEE) Vegetation Change
-
+# Doug Edit"
 This directory contains the code to produce a vegetation change analysis of a study area in the Tolima Department, Columbia. The workflow computes the NDVI difference between peak green and post-harvest imagery and classifies change based on NDVI thresholds.
 
 ## 1. Prerequisites
